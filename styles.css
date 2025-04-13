@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #00d4ff;
+  font-size: 2rem;
+}
+
+h2 {
+  color: #ff9900;
+}
+
+.vaciar {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
