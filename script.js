@@ -1,9 +1,9 @@
 const productos = [
   { id: 1, nombre: "Tarjeta Gráfica", categoria: "Electrónica", precio: 35000, imagen: "https://topesdegama.com/app/uploads-topesdegama.com/2022/09/graficas-portada.jpg?x=480&y=375&quality=80" },
-  { id: 2, nombre: "Ram", categoria: "Componentes", precio: 80000, imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-ijYvWA4Wepm65WTepMdJQv1dzCdbGfg&s" },
+  { id: 2, nombre: "Ram", categoria: "Componentes", precio: 80000, imagen: "https://www.mercadolibre.com.co/blog/tr/como-saber-que-memoria-ram-es-compatible-con-tu-pc-de-escritorio" },
   { id: 3, nombre: "Teclados", categoria: "Periféricos", precio: 160000, imagen: "https://clonesyperifericos.com/wp-content/uploads/2025/01/Dark-Avenger-redragon.jpg" },
-  { id: 4, nombre: "Fuentes de poder", categoria: "Componentes", precio: 200000, imagen: "https://m.media-amazon.com/images/I/61tWm7Ouw-S._AC_UF1000,1000_QL80_.jpg" },
-  { id: 5, nombre: "Chasis", categoria: "Componentes", precio: 60000, imagen: "https://m.media-amazon.com/images/I/71SS3t39Q8L._AC_UF894,1000_QL80_.jpg" }
+  { id: 4, nombre: "Fuentes de poder", categoria: "Componentes", precio: 200000, imagen: "https://www.amazon.com/-/es/PSG1050/dp/B0CFRXQLGD" },
+  { id: 5, nombre: "Chasis", categoria: "Componentes", precio: 60000, imagen: "https://compubit.com.co/producto/chasis-power-group-f909/" }
 ];
 
 let carrito = [];
